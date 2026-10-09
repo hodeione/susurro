@@ -2,7 +2,7 @@
 
 **Transcribe audio a texto con IA sin subirlo a ningún servidor.** Whisper, el modelo de reconocimiento de voz de OpenAI, se ejecuta dentro del navegador con WebGPU o WebAssembly.
 
-**[▶ Probar susurro](https://susurro.vercel.app)**
+**[▶ Probar susurro](https://susurro-ia.vercel.app)**
 
 ![susurro transcribiendo una reunión](docs/app.png)
 
